@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Robby-cell
-- 🌱 I’m currently learning a range of languages including but not limited to C++, JavaScript, Rust, Zig, C
+- 🌱 I’m currently learning a range of languages including but not limited to C++, JavaScript, C, Python
 - 👍 Trying to familiarize, and open myself up to new things (frameworks etc.)
